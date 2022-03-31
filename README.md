@@ -5,7 +5,7 @@ This model uses the iris_dataset from sklearn to make a classification between 3
 
 # Files:
 
-Iris_Classification.ipynb:
+"Iris_Classification.ipynb":
 contains an in depth look at the given dataset as well as an implementation of the model. 
 
 iris_classification.py:
